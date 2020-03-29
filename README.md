@@ -1,2 +1,2 @@
-# morneausebastien-gmail.com
+# custom app by sebastien morneau
 NHL Home Draft
