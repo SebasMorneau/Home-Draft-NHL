@@ -13,12 +13,15 @@ class poolcomSpider(Spider):
 
     def parse(self, response):
         players_name = Selector(response).xpath(
-            '//div[@class="div-name-in-table"]//div[2]//div')
+            '//div[@class="div-name-in-table"]')
 
         for player_name in players_name:
             item = NhldotcomItem()
-            item['title'] = player_name.xpath(
-                './/a/@href'
+            item['name'] = player_name.xpath(
+                './/div[2]/div/a/text()'
+            ).extract()[0]
+            item['position'] = player_name.xpath(
+                './/div/div/@data-content'
             ).extract()[0]
 
             yield item
