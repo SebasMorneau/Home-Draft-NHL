@@ -1,102 +1,2526 @@
-[
-{"title": "/nhl/joueur/connor-mcdavid"},
-{"title": "/nhl/joueur/nikita-kucherov"},
-{"title": "/nhl/joueur/leon-draisaitl"},
-{"title": "/nhl/joueur/nathan-mackinnon"},
-{"title": "/nhl/joueur/patrick-kane"},
-{"title": "/nhl/joueur/aleksander-barkov"},
-{"title": "/nhl/joueur/johnny-gaudreau"},
-{"title": "/nhl/joueur/sidney-crosby"},
-{"title": "/nhl/joueur/steven-stamkos"},
-{"title": "/nhl/joueur/jonathan-huberdeau"},
-{"title": "/nhl/joueur/john-tavares"},
-{"title": "/nhl/joueur/mitch-marner"},
-{"title": "/nhl/joueur/claude-giroux"},
-{"title": "/nhl/joueur/jack-eichel"},
-{"title": "/nhl/joueur/brad-marchand"},
-{"title": "/nhl/joueur/mikko-rantanen"},
-{"title": "/nhl/joueur/andrei-vasilevski"},
-{"title": "/nhl/joueur/auston-matthews"},
-{"title": "/nhl/joueur/mark-scheifele"},
-{"title": "/nhl/joueur/frederik-andersen"},
-{"title": "/nhl/joueur/alexander-ovechkin"},
-{"title": "/nhl/joueur/david-pastrnak"},
-{"title": "/nhl/joueur/taylor-hall"},
-{"title": "/nhl/joueur/tyler-seguin"},
-{"title": "/nhl/joueur/blake-wheeler"},
-{"title": "/nhl/joueur/sebastian-aho"},
-{"title": "/nhl/joueur/jake-guentzel"},
-{"title": "/nhl/joueur/sean-couturier"},
-{"title": "/nhl/joueur/sean-monahan"},
-{"title": "/nhl/joueur/artemi-panarin"},
-{"title": "/nhl/joueur/nicklas-backstrom"},
-{"title": "/nhl/joueur/connor-hellebuyck"},
-{"title": "/nhl/joueur/dylan-larkin"},
-{"title": "/nhl/joueur/braden-holtby"},
-{"title": "/nhl/joueur/evgeni-malkin"},
-{"title": "/nhl/joueur/alex-debrincat"},
-{"title": "/nhl/joueur/teuvo-teravainen"},
-{"title": "/nhl/joueur/matthew-tkachuk"},
-{"title": "/nhl/joueur/brayden-point"},
-{"title": "/nhl/joueur/ryan-o-reilly"},
-{"title": "/nhl/joueur/patrice-bergeron"},
-{"title": "/nhl/joueur/elias-lindholm"},
-{"title": "/nhl/joueur/jonathan-toews"},
-{"title": "/nhl/joueur/mark-stone"},
-{"title": "/nhl/joueur/evgeny-kuznetsov"},
-{"title": "/nhl/joueur/marc-andre-fleury"},
-{"title": "/nhl/joueur/vladimir-tarasenko"},
-{"title": "/nhl/joueur/filip-forsberg"},
-{"title": "/nhl/joueur/morgan-rielly"},
-{"title": "/nhl/joueur/phil-kessel"},
-{"title": "/nhl/joueur/mika-zibanejad"},
-{"title": "/nhl/joueur/alexander-radulov"},
-{"title": "/nhl/joueur/jakub-voracek"},
-{"title": "/nhl/joueur/martin-jones"},
-{"title": "/nhl/joueur/ryan-nugent-hopkins"},
-{"title": "/nhl/joueur/mathew-barzal"},
-{"title": "/nhl/joueur/brent-burns"},
-{"title": "/nhl/joueur/elias-pettersson"},
-{"title": "/nhl/joueur/gabriel-landeskog"},
-{"title": "/nhl/joueur/evgeny-dadonov"},
-{"title": "/nhl/joueur/sergei-bobrovsky"},
-{"title": "/nhl/joueur/philipp-grubauer"},
-{"title": "/nhl/joueur/tomas-hertl"},
-{"title": "/nhl/joueur/anze-kopitar"},
-{"title": "/nhl/joueur/john-carlson"},
-{"title": "/nhl/joueur/carey-price"},
-{"title": "/nhl/joueur/timo-meier"},
-{"title": "/nhl/joueur/max-domi"},
-{"title": "/nhl/joueur/mike-hoffman"},
-{"title": "/nhl/joueur/brock-boeser"},
-{"title": "/nhl/joueur/logan-couture"},
-{"title": "/nhl/joueur/ryan-johansen"},
-{"title": "/nhl/joueur/erik-karlsson"},
-{"title": "/nhl/joueur/viktor-arvidsson"},
-{"title": "/nhl/joueur/kyle-connor"},
-{"title": "/nhl/joueur/jack-hughes"},
-{"title": "/nhl/joueur/sam-reinhart"},
-{"title": "/nhl/joueur/david-krejci"},
-{"title": "/nhl/joueur/victor-hedman"},
-{"title": "/nhl/joueur/matt-duchene"},
-{"title": "/nhl/joueur/ryan-getzlaf"},
-{"title": "/nhl/joueur/william-karlsson"},
-{"title": "/nhl/joueur/brayden-schenn"},
-{"title": "/nhl/joueur/torey-krug"},
-{"title": "/nhl/joueur/ben-bishop"},
-{"title": "/nhl/joueur/carter-hart"},
-{"title": "/nhl/joueur/anthony-mantha"},
-{"title": "/nhl/joueur/jamie-benn"},
-{"title": "/nhl/joueur/kristopher-letang"},
-{"title": "/nhl/joueur/jacob-markstrom"},
-{"title": "/nhl/joueur/tuukka-rask"},
-{"title": "/nhl/joueur/jonathan-marchessault"},
-{"title": "/nhl/joueur/mikael-granlund"},
-{"title": "/nhl/joueur/matt-murray"},
-{"title": "/nhl/joueur/jeff-skinner"},
-{"title": "/nhl/joueur/cam-atkinson"},
-{"title": "/nhl/joueur/joe-pavelski"},
-{"title": "/nhl/joueur/erik-gustafsson"},
-{"title": "/nhl/joueur/mats-zuccarello"},
-{"title": "/nhl/joueur/mark-giordano"}
+[{
+        "player": "Connor McDavid",
+        "position": "Attaquant",
+        "goals": "42",
+        "assists": "73"
+    },
+    {
+        "player": "Nikita Kucherov",
+        "position": "Attaquant",
+        "goals": "39",
+        "assists": "73"
+    },
+    {
+        "player": "Leon Draisaitl",
+        "position": "Attaquant",
+        "goals": "48",
+        "assists": "52"
+    },
+    {
+        "player": "Nathan MacKinnon",
+        "position": "Attaquant",
+        "goals": "38",
+        "assists": "61"
+    },
+    {
+        "player": "Patrick Kane",
+        "position": "Attaquant",
+        "goals": "40",
+        "assists": "58"
+    },
+    {
+        "player": "Aleksander Barkov",
+        "position": "Attaquant",
+        "goals": "33",
+        "assists": "64"
+    },
+    {
+        "player": "Johnny Gaudreau",
+        "position": "Attaquant",
+        "goals": "35",
+        "assists": "61"
+    },
+    {
+        "player": "Sidney Crosby",
+        "position": "Attaquant",
+        "goals": "32",
+        "assists": "64"
+    },
+    {
+        "player": "Steven Stamkos",
+        "position": "Attaquant",
+        "goals": "41",
+        "assists": "54"
+    },
+    {
+        "player": "Jonathan Huberdeau",
+        "position": "Attaquant",
+        "goals": "29",
+        "assists": "66"
+    },
+    {
+        "player": "John Tavares",
+        "position": "Attaquant",
+        "goals": "47",
+        "assists": "44"
+    },
+    {
+        "player": "Mitch Marner",
+        "position": "Attaquant",
+        "goals": "24",
+        "assists": "67"
+    },
+    {
+        "player": "Claude Giroux",
+        "position": "Attaquant",
+        "goals": "25",
+        "assists": "65"
+    },
+    {
+        "player": "Jack Eichel",
+        "position": "Attaquant",
+        "goals": "36",
+        "assists": "53"
+    },
+    {
+        "player": "Brad Marchand",
+        "position": "Attaquant",
+        "goals": "35",
+        "assists": "54"
+    },
+    {
+        "player": "Mikko Rantanen",
+        "position": "Attaquant",
+        "goals": "33",
+        "assists": "55"
+    },
+    {
+        "player": "Andrei Vasilevski",
+        "position": "Gardien",
+        "vic": "41",
+        "dp": "5",
+        "bl": "7"
+    },
+    {
+        "player": "Auston Matthews",
+        "position": "Attaquant",
+        "goals": "41",
+        "assists": "45"
+    },
+    {
+        "player": "Mark Scheifele",
+        "position": "Attaquant",
+        "goals": "36",
+        "assists": "50"
+    },
+    {
+        "player": "Frederik Andersen",
+        "position": "Gardien",
+        "vic": "40",
+        "dp": "6",
+        "bl": "3"
+    },
+    {
+        "player": "Alexander Ovechkin",
+        "position": "Attaquant",
+        "goals": "50",
+        "assists": "35"
+    },
+    {
+        "player": "David Pastrnak",
+        "position": "Attaquant",
+        "goals": "40",
+        "assists": "45"
+    },
+    {
+        "player": "Taylor Hall",
+        "position": "Attaquant",
+        "goals": "33",
+        "assists": "52"
+    },
+    {
+        "player": "Tyler Seguin",
+        "position": "Attaquant",
+        "goals": "35",
+        "assists": "49"
+    },
+    {
+        "player": "Blake Wheeler",
+        "position": "Attaquant",
+        "goals": "22",
+        "assists": "62"
+    },
+    {
+        "player": "Sebastian Aho",
+        "position": "Attaquant",
+        "goals": "30",
+        "assists": "52"
+    },
+    {
+        "player": "Jake Guentzel",
+        "position": "Attaquant",
+        "goals": "40",
+        "assists": "40"
+    },
+    {
+        "player": "Sean Couturier",
+        "position": "Attaquant",
+        "goals": "34",
+        "assists": "46"
+    },
+    {
+        "player": "Sean Monahan",
+        "position": "Attaquant",
+        "goals": "32",
+        "assists": "48"
+    },
+    {
+        "player": "Artemi Panarin",
+        "position": "Attaquant",
+        "goals": "26",
+        "assists": "54"
+    },
+    {
+        "player": "Nicklas Backstrom",
+        "position": "Attaquant",
+        "goals": "24",
+        "assists": "55"
+    },
+    {
+        "player": "Connor Hellebuyck",
+        "position": "Gardien",
+        "vic": "37",
+        "dp": "5",
+        "bl": "4"
+    },
+    {
+        "player": "Dylan Larkin",
+        "position": "Attaquant",
+        "goals": "33",
+        "assists": "45"
+    },
+    {
+        "player": "Braden Holtby",
+        "position": "Gardien",
+        "vic": "36",
+        "dp": "6",
+        "bl": "5"
+    },
+    {
+        "player": "Evgeni Malkin",
+        "position": "Attaquant",
+        "goals": "22",
+        "assists": "55"
+    },
+    {
+        "player": "Alex DeBrincat",
+        "position": "Attaquant",
+        "goals": "39",
+        "assists": "37"
+    },
+    {
+        "player": "Teuvo Teravainen",
+        "position": "Attaquant",
+        "goals": "24",
+        "assists": "52"
+    },
+    {
+        "player": "Matthew Tkachuk",
+        "position": "Attaquant",
+        "goals": "33",
+        "assists": "42"
+    },
+    {
+        "player": "Brayden Point",
+        "position": "Attaquant",
+        "goals": "31",
+        "assists": "44"
+    },
+    {
+        "player": "Ryan O'Reilly",
+        "position": "Attaquant",
+        "goals": "30",
+        "assists": "45"
+    },
+    {
+        "player": "Patrice Bergeron",
+        "position": "Attaquant",
+        "goals": "30",
+        "assists": "45"
+    },
+    {
+        "player": "Elias Lindholm",
+        "position": "Attaquant",
+        "goals": "25",
+        "assists": "50"
+    },
+    {
+        "player": "Jonathan Toews",
+        "position": "Attaquant",
+        "goals": "33",
+        "assists": "41"
+    },
+    {
+        "player": "Mark Stone",
+        "position": "Attaquant",
+        "goals": "32",
+        "assists": "42"
+    },
+    {
+        "player": "Evgeny Kuznetsov",
+        "position": "Attaquant",
+        "goals": "22",
+        "assists": "52"
+    },
+    {
+        "player": "Marc-Andre Fleury",
+        "position": "Gardien",
+        "vic": "34",
+        "dp": "6",
+        "bl": "7"
+    },
+    {
+        "player": "Vladimir Tarasenko",
+        "position": "Attaquant",
+        "goals": "40",
+        "assists": "33"
+    },
+    {
+        "player": "Filip Forsberg",
+        "position": "Attaquant",
+        "goals": "30",
+        "assists": "43"
+    },
+    {
+        "player": "Morgan Rielly",
+        "position": "Défenseur",
+        "goals": "19",
+        "assists": "54"
+    },
+    {
+        "player": "Phil Kessel",
+        "position": "Attaquant",
+        "goals": "32",
+        "assists": "40"
+    },
+    {
+        "player": "Mika Zibanejad",
+        "position": "Attaquant",
+        "goals": "31",
+        "assists": "41"
+    },
+    {
+        "player": "Alexander Radulov",
+        "position": "Attaquant",
+        "goals": "28",
+        "assists": "44"
+    },
+    {
+        "player": "Jakub Voracek",
+        "position": "Attaquant",
+        "goals": "20",
+        "assists": "52"
+    },
+    {
+        "player": "Martin Jones",
+        "position": "Gardien",
+        "vic": "33",
+        "dp": "6",
+        "bl": "5"
+    },
+    {
+        "player": "Ryan Nugent-Hopki…",
+        "position": "Attaquant",
+        "goals": "30",
+        "assists": "41"
+    },
+    {
+        "player": "Mathew Barzal",
+        "position": "Attaquant",
+        "goals": "22",
+        "assists": "49"
+    },
+    {
+        "player": "Brent Burns",
+        "position": "Défenseur",
+        "goals": "17",
+        "assists": "54"
+    },
+    {
+        "player": "Elias Pettersson",
+        "position": "Attaquant",
+        "goals": "30",
+        "assists": "40"
+    },
+    {
+        "player": "Gabriel Landeskog",
+        "position": "Attaquant",
+        "goals": "30",
+        "assists": "40"
+    },
+    {
+        "player": "Evgeny Dadonov",
+        "position": "Attaquant",
+        "goals": "27",
+        "assists": "43"
+    },
+    {
+        "player": "Sergei Bobrovsky",
+        "position": "Gardien",
+        "vic": "31",
+        "dp": "8",
+        "bl": "6"
+    },
+    {
+        "player": "Philipp Grubauer",
+        "position": "Gardien",
+        "vic": "32",
+        "dp": "6",
+        "bl": "5"
+    },
+    {
+        "player": "Tomas Hertl",
+        "position": "Attaquant",
+        "goals": "32",
+        "assists": "37"
+    },
+    {
+        "player": "Anze Kopitar",
+        "position": "Attaquant",
+        "goals": "24",
+        "assists": "45"
+    },
+    {
+        "player": "John Carlson",
+        "position": "Défenseur",
+        "goals": "14",
+        "assists": "55"
+    },
+    {
+        "player": "Carey Price",
+        "position": "Gardien",
+        "vic": "31",
+        "dp": "7",
+        "bl": "4"
+    },
+    {
+        "player": "Timo Meier",
+        "position": "Attaquant",
+        "goals": "28",
+        "assists": "40"
+    },
+    {
+        "player": "Max Domi",
+        "position": "Attaquant",
+        "goals": "27",
+        "assists": "41"
+    },
+    {
+        "player": "Mike Hoffman",
+        "position": "Attaquant",
+        "goals": "37",
+        "assists": "30"
+    },
+    {
+        "player": "Brock Boeser",
+        "position": "Attaquant",
+        "goals": "33",
+        "assists": "34"
+    },
+    {
+        "player": "Logan Couture",
+        "position": "Attaquant",
+        "goals": "28",
+        "assists": "39"
+    },
+    {
+        "player": "Ryan Johansen",
+        "position": "Attaquant",
+        "goals": "19",
+        "assists": "48"
+    },
+    {
+        "player": "Erik Karlsson",
+        "position": "Défenseur",
+        "goals": "16",
+        "assists": "51"
+    },
+    {
+        "player": "Viktor Arvidsson",
+        "position": "Attaquant",
+        "goals": "39",
+        "assists": "27"
+    },
+    {
+        "player": "Kyle Connor",
+        "position": "Attaquant",
+        "goals": "33",
+        "assists": "33"
+    },
+    {
+        "player": "Jack Hughes",
+        "position": "Attaquant",
+        "goals": "26",
+        "assists": "40"
+    },
+    {
+        "player": "Sam Reinhart",
+        "position": "Attaquant",
+        "goals": "25",
+        "assists": "41"
+    },
+    {
+        "player": "David Krejci",
+        "position": "Attaquant",
+        "goals": "20",
+        "assists": "46"
+    },
+    {
+        "player": "Victor Hedman",
+        "position": "Défenseur",
+        "goals": "18",
+        "assists": "48"
+    },
+    {
+        "player": "Matt Duchene",
+        "position": "Attaquant",
+        "goals": "31",
+        "assists": "34"
+    },
+    {
+        "player": "Ryan Getzlaf",
+        "position": "Attaquant",
+        "goals": "25",
+        "assists": "40"
+    },
+    {
+        "player": "William Karlsson",
+        "position": "Attaquant",
+        "goals": "24",
+        "assists": "41"
+    },
+    {
+        "player": "Brayden Schenn",
+        "position": "Attaquant",
+        "goals": "20",
+        "assists": "45"
+    },
+    {
+        "player": "Torey Krug",
+        "position": "Défenseur",
+        "goals": "10",
+        "assists": "55"
+    },
+    {
+        "player": "Ben Bishop",
+        "position": "Gardien",
+        "vic": "29",
+        "dp": "7",
+        "bl": "7"
+    },
+    {
+        "player": "Carter Hart",
+        "position": "Gardien",
+        "vic": "30",
+        "dp": "5",
+        "bl": "2"
+    },
+    {
+        "player": "Anthony Mantha",
+        "position": "Attaquant",
+        "goals": "31",
+        "assists": "33"
+    },
+    {
+        "player": "Jamie Benn",
+        "position": "Attaquant",
+        "goals": "28",
+        "assists": "36"
+    },
+    {
+        "player": "Kristopher Letang",
+        "position": "Défenseur",
+        "goals": "18",
+        "assists": "46"
+    },
+    {
+        "player": "Jacob Markstrom",
+        "position": "Gardien",
+        "vic": "28",
+        "dp": "8",
+        "bl": "2"
+    },
+    {
+        "player": "Tuukka Rask",
+        "position": "Gardien",
+        "vic": "29",
+        "dp": "6",
+        "bl": "4"
+    },
+    {
+        "player": "Jonathan Marchess…",
+        "position": "Attaquant",
+        "goals": "26",
+        "assists": "37"
+    },
+    {
+        "player": "Mikael Granlund",
+        "position": "Attaquant",
+        "goals": "22",
+        "assists": "41"
+    },
+    {
+        "player": "Matt Murray",
+        "position": "Gardien",
+        "vic": "29",
+        "dp": "5",
+        "bl": "5"
+    },
+    {
+        "player": "Jeff Skinner",
+        "position": "Attaquant",
+        "goals": "35",
+        "assists": "27"
+    },
+    {
+        "player": "Cam Atkinson",
+        "position": "Attaquant",
+        "goals": "31",
+        "assists": "31"
+    },
+    {
+        "player": "Joe Pavelski",
+        "position": "Attaquant",
+        "goals": "30",
+        "assists": "32"
+    },
+    {
+        "player": "Erik Gustafsson",
+        "position": "Défenseur",
+        "goals": "20",
+        "assists": "42"
+    },
+    {
+        "player": "Mats Zuccarello",
+        "position": "Attaquant",
+        "goals": "20",
+        "assists": "42"
+    },
+    {
+        "player": "Mark Giordano",
+        "position": "Défenseur",
+        "goals": "15",
+        "assists": "47"
+    },
+    {
+        "player": "Jordan Binnington",
+        "position": "Gardien",
+        "vic": "28",
+        "dp": "6",
+        "bl": "5"
+    },
+    {
+        "player": "Mikko Koskinen",
+        "position": "Gardien",
+        "vic": "28",
+        "dp": "6",
+        "bl": "4"
+    },
+    {
+        "player": "Patrik Laine",
+        "position": "Attaquant",
+        "goals": "34",
+        "assists": "27"
+    },
+    {
+        "player": "Nikita Gusev",
+        "position": "Attaquant",
+        "goals": "25",
+        "assists": "36"
+    },
+    {
+        "player": "Tyson Barrie",
+        "position": "Défenseur",
+        "goals": "15",
+        "assists": "46"
+    },
+    {
+        "player": "Cory Schneider",
+        "position": "Gardien",
+        "vic": "27",
+        "dp": "7",
+        "bl": "3"
+    },
+    {
+        "player": "Bo Horvat",
+        "position": "Attaquant",
+        "goals": "28",
+        "assists": "32"
+    },
+    {
+        "player": "Jason Zucker",
+        "position": "Attaquant",
+        "goals": "26",
+        "assists": "34"
+    },
+    {
+        "player": "Pierre-Luc Dubois",
+        "position": "Attaquant",
+        "goals": "24",
+        "assists": "36"
+    },
+    {
+        "player": "Dylan Strome",
+        "position": "Attaquant",
+        "goals": "21",
+        "assists": "39"
+    },
+    {
+        "player": "Kevin Labanc",
+        "position": "Attaquant",
+        "goals": "20",
+        "assists": "40"
+    },
+    {
+        "player": "William Nylander",
+        "position": "Attaquant",
+        "goals": "15",
+        "assists": "45"
+    },
+    {
+        "player": "Keith Yandle",
+        "position": "Défenseur",
+        "goals": "8",
+        "assists": "52"
+    },
+    {
+        "player": "Rickard Rakell",
+        "position": "Attaquant",
+        "goals": "30",
+        "assists": "29"
+    },
+    {
+        "player": "Pavel Buchnevich",
+        "position": "Attaquant",
+        "goals": "22",
+        "assists": "37"
+    },
+    {
+        "player": "Nikolaj Ehlers",
+        "position": "Attaquant",
+        "goals": "22",
+        "assists": "37"
+    },
+    {
+        "player": "Gustav Nyquist",
+        "position": "Attaquant",
+        "goals": "18",
+        "assists": "41"
+    },
+    {
+        "player": "John Klingberg",
+        "position": "Défenseur",
+        "goals": "17",
+        "assists": "42"
+    },
+    {
+        "player": "Devan Dubnyk",
+        "position": "Gardien",
+        "vic": "25",
+        "dp": "9",
+        "bl": "6"
+    },
+    {
+        "player": "Pekka Rinne",
+        "position": "Gardien",
+        "vic": "27",
+        "dp": "5",
+        "bl": "4"
+    },
+    {
+        "player": "Cam Talbot",
+        "position": "Gardien",
+        "vic": "27",
+        "dp": "5",
+        "bl": "3"
+    },
+    {
+        "player": "Nazem Kadri",
+        "position": "Attaquant",
+        "goals": "28",
+        "assists": "30"
+    },
+    {
+        "player": "Zach Parise",
+        "position": "Attaquant",
+        "goals": "27",
+        "assists": "31"
+    },
+    {
+        "player": "Clayton Keller",
+        "position": "Attaquant",
+        "goals": "25",
+        "assists": "33"
+    },
+    {
+        "player": "Eric Staal",
+        "position": "Attaquant",
+        "goals": "23",
+        "assists": "35"
+    },
+    {
+        "player": "Jonathan Drouin",
+        "position": "Attaquant",
+        "goals": "20",
+        "assists": "38"
+    },
+    {
+        "player": "Roman Josi",
+        "position": "Défenseur",
+        "goals": "17",
+        "assists": "41"
+    },
+    {
+        "player": "Robin Lehner",
+        "position": "Gardien",
+        "vic": "26",
+        "dp": "6",
+        "bl": "4"
+    },
+    {
+        "player": "David Rittich",
+        "position": "Gardien",
+        "vic": "27",
+        "dp": "4",
+        "bl": "3"
+    },
+    {
+        "player": "James van Riemsdyk",
+        "position": "Attaquant",
+        "goals": "31",
+        "assists": "26"
+    },
+    {
+        "player": "Nino Niederreiter",
+        "position": "Attaquant",
+        "goals": "28",
+        "assists": "29"
+    },
+    {
+        "player": "Jakub Vrana",
+        "position": "Attaquant",
+        "goals": "27",
+        "assists": "30"
+    },
+    {
+        "player": "Tomas Tatar",
+        "position": "Attaquant",
+        "goals": "24",
+        "assists": "33"
+    },
+    {
+        "player": "Evander Kane",
+        "position": "Attaquant",
+        "goals": "30",
+        "assists": "26"
+    },
+    {
+        "player": "Andreas Athanasiou",
+        "position": "Attaquant",
+        "goals": "29",
+        "assists": "27"
+    },
+    {
+        "player": "T.J. Oshie",
+        "position": "Attaquant",
+        "goals": "26",
+        "assists": "30"
+    },
+    {
+        "player": "Yanni Gourde",
+        "position": "Attaquant",
+        "goals": "25",
+        "assists": "31"
+    },
+    {
+        "player": "Jaden Schwartz",
+        "position": "Attaquant",
+        "goals": "20",
+        "assists": "36"
+    },
+    {
+        "player": "John Gibson",
+        "position": "Gardien",
+        "vic": "24",
+        "dp": "8",
+        "bl": "2"
+    },
+    {
+        "player": "Semyon Varlamov",
+        "position": "Gardien",
+        "vic": "24",
+        "dp": "8",
+        "bl": "4"
+    },
+    {
+        "player": "Petr Mrazek",
+        "position": "Gardien",
+        "vic": "25",
+        "dp": "6",
+        "bl": "4"
+    },
+    {
+        "player": "Nico Hischier",
+        "position": "Attaquant",
+        "goals": "22",
+        "assists": "33"
+    },
+    {
+        "player": "Andreas Johnsson",
+        "position": "Attaquant",
+        "goals": "22",
+        "assists": "33"
+    },
+    {
+        "player": "Mathew Dumba",
+        "position": "Défenseur",
+        "goals": "19",
+        "assists": "36"
+    },
+    {
+        "player": "Kevin Hayes",
+        "position": "Attaquant",
+        "goals": "19",
+        "assists": "36"
+    },
+    {
+        "player": "David Perron",
+        "position": "Attaquant",
+        "goals": "17",
+        "assists": "38"
+    },
+    {
+        "player": "Reilly Smith",
+        "position": "Attaquant",
+        "goals": "17",
+        "assists": "38"
+    },
+    {
+        "player": "Joshua Bailey",
+        "position": "Attaquant",
+        "goals": "15",
+        "assists": "40"
+    },
+    {
+        "player": "Derek Stepan",
+        "position": "Attaquant",
+        "goals": "13",
+        "assists": "42"
+    },
+    {
+        "player": "Vincent Trocheck",
+        "position": "Attaquant",
+        "goals": "12",
+        "assists": "43"
+    },
+    {
+        "player": "Andrei Svechnikov",
+        "position": "Attaquant",
+        "goals": "28",
+        "assists": "26"
+    },
+    {
+        "player": "Kyle Palmieri",
+        "position": "Attaquant",
+        "goals": "25",
+        "assists": "29"
+    },
+    {
+        "player": "Oliver Ekman-Lars…",
+        "position": "Défenseur",
+        "goals": "19",
+        "assists": "35"
+    },
+    {
+        "player": "Jonathan Quick",
+        "position": "Gardien",
+        "vic": "23",
+        "dp": "8",
+        "bl": "3"
+    },
+    {
+        "player": "Carter Hutton",
+        "position": "Gardien",
+        "vic": "24",
+        "dp": "6",
+        "bl": "2"
+    },
+    {
+        "player": "Brendan Gallagher",
+        "position": "Attaquant",
+        "goals": "29",
+        "assists": "24"
+    },
+    {
+        "player": "Max Pacioretty",
+        "position": "Attaquant",
+        "goals": "26",
+        "assists": "27"
+    },
+    {
+        "player": "Dustin Brown",
+        "position": "Attaquant",
+        "goals": "23",
+        "assists": "30"
+    },
+    {
+        "player": "Alex Galchenyuk",
+        "position": "Attaquant",
+        "goals": "22",
+        "assists": "31"
+    },
+    {
+        "player": "P.K. Subban",
+        "position": "Défenseur",
+        "goals": "20",
+        "assists": "33"
+    },
+    {
+        "player": "Nick Schmaltz",
+        "position": "Attaquant",
+        "goals": "20",
+        "assists": "33"
+    },
+    {
+        "player": "J.T. Miller",
+        "position": "Attaquant",
+        "goals": "16",
+        "assists": "37"
+    },
+    {
+        "player": "Shayne Gostisbehe…",
+        "position": "Défenseur",
+        "goals": "12",
+        "assists": "41"
+    },
+    {
+        "player": "Jake DeBrusk",
+        "position": "Attaquant",
+        "goals": "32",
+        "assists": "20"
+    },
+    {
+        "player": "Anders Lee",
+        "position": "Attaquant",
+        "goals": "27",
+        "assists": "25"
+    },
+    {
+        "player": "Jakob Silfverberg",
+        "position": "Attaquant",
+        "goals": "26",
+        "assists": "26"
+    },
+    {
+        "player": "Ryan Dzingel",
+        "position": "Attaquant",
+        "goals": "25",
+        "assists": "27"
+    },
+    {
+        "player": "Kaapo Kakko",
+        "position": "Attaquant",
+        "goals": "22",
+        "assists": "30"
+    },
+    {
+        "player": "Colin White",
+        "position": "Attaquant",
+        "goals": "19",
+        "assists": "33"
+    },
+    {
+        "player": "Thomas Chabot",
+        "position": "Défenseur",
+        "goals": "15",
+        "assists": "37"
+    },
+    {
+        "player": "Seth Jones",
+        "position": "Défenseur",
+        "goals": "12",
+        "assists": "40"
+    },
+    {
+        "player": "Phillip Danault",
+        "position": "Attaquant",
+        "goals": "11",
+        "assists": "41"
+    },
+    {
+        "player": "Jimmy Howard",
+        "position": "Gardien",
+        "vic": "22",
+        "dp": "8",
+        "bl": "1"
+    },
+    {
+        "player": "Chris Kreider",
+        "position": "Attaquant",
+        "goals": "28",
+        "assists": "23"
+    },
+    {
+        "player": "Oliver Bjorkstrand",
+        "position": "Attaquant",
+        "goals": "24",
+        "assists": "27"
+    },
+    {
+        "player": "Brady Tkachuk",
+        "position": "Attaquant",
+        "goals": "24",
+        "assists": "27"
+    },
+    {
+        "player": "Travis Konecny",
+        "position": "Attaquant",
+        "goals": "22",
+        "assists": "29"
+    },
+    {
+        "player": "Jesper Bratt",
+        "position": "Attaquant",
+        "goals": "19",
+        "assists": "32"
+    },
+    {
+        "player": "Paul Stastny",
+        "position": "Attaquant",
+        "goals": "15",
+        "assists": "36"
+    },
+    {
+        "player": "Jacob Trouba",
+        "position": "Défenseur",
+        "goals": "13",
+        "assists": "38"
+    },
+    {
+        "player": "Antti Raanta",
+        "position": "Gardien",
+        "vic": "23",
+        "dp": "5",
+        "bl": "4"
+    },
+    {
+        "player": "Ilya Kovalchuk",
+        "position": "Attaquant",
+        "goals": "25",
+        "assists": "25"
+    },
+    {
+        "player": "Alex Tuch",
+        "position": "Attaquant",
+        "goals": "20",
+        "assists": "30"
+    },
+    {
+        "player": "Kevin Fiala",
+        "position": "Attaquant",
+        "goals": "18",
+        "assists": "32"
+    },
+    {
+        "player": "Zach Werenski",
+        "position": "Défenseur",
+        "goals": "16",
+        "assists": "34"
+    },
+    {
+        "player": "Kyle Turris",
+        "position": "Attaquant",
+        "goals": "15",
+        "assists": "35"
+    },
+    {
+        "player": "Chris Tierney",
+        "position": "Attaquant",
+        "goals": "14",
+        "assists": "36"
+    },
+    {
+        "player": "Dustin Byfuglien",
+        "position": "Défenseur",
+        "goals": "13",
+        "assists": "37"
+    },
+    {
+        "player": "Drew Doughty",
+        "position": "Défenseur",
+        "goals": "11",
+        "assists": "39"
+    },
+    {
+        "player": "Tyler Bertuzzi",
+        "position": "Attaquant",
+        "goals": "25",
+        "assists": "24"
+    },
+    {
+        "player": "Tyler Johnson",
+        "position": "Attaquant",
+        "goals": "24",
+        "assists": "25"
+    },
+    {
+        "player": "Dominik Kahun",
+        "position": "Attaquant",
+        "goals": "16",
+        "assists": "33"
+    },
+    {
+        "player": "Rasmus Dahlin",
+        "position": "Défenseur",
+        "goals": "10",
+        "assists": "39"
+    },
+    {
+        "player": "Henrik Lundqvist",
+        "position": "Gardien",
+        "vic": "21",
+        "dp": "7",
+        "bl": "2"
+    },
+    {
+        "player": "Brock Nelson",
+        "position": "Attaquant",
+        "goals": "22",
+        "assists": "26"
+    },
+    {
+        "player": "Jimmy Vesey",
+        "position": "Attaquant",
+        "goals": "22",
+        "assists": "26"
+    },
+    {
+        "player": "Miro Heiskanen",
+        "position": "Défenseur",
+        "goals": "15",
+        "assists": "33"
+    },
+    {
+        "player": "Darnell Nurse",
+        "position": "Défenseur",
+        "goals": "15",
+        "assists": "32"
+    },
+    {
+        "player": "Charlie McAvoy",
+        "position": "Défenseur",
+        "goals": "14",
+        "assists": "33"
+    },
+    {
+        "player": "Brandon Saad",
+        "position": "Attaquant",
+        "goals": "22",
+        "assists": "24"
+    },
+    {
+        "player": "Kasperi Kapanen",
+        "position": "Attaquant",
+        "goals": "22",
+        "assists": "24"
+    },
+    {
+        "player": "Alex Pietrangelo",
+        "position": "Défenseur",
+        "goals": "17",
+        "assists": "29"
+    },
+    {
+        "player": "Josh Anderson",
+        "position": "Attaquant",
+        "goals": "24",
+        "assists": "21"
+    },
+    {
+        "player": "Mikael Backlund",
+        "position": "Attaquant",
+        "goals": "21",
+        "assists": "24"
+    },
+    {
+        "player": "Jared McCann",
+        "position": "Attaquant",
+        "goals": "21",
+        "assists": "24"
+    },
+    {
+        "player": "Adam Henrique",
+        "position": "Attaquant",
+        "goals": "20",
+        "assists": "25"
+    },
+    {
+        "player": "Tom Wilson",
+        "position": "Attaquant",
+        "goals": "19",
+        "assists": "26"
+    },
+    {
+        "player": "Michael Ferland",
+        "position": "Attaquant",
+        "goals": "18",
+        "assists": "27"
+    },
+    {
+        "player": "Andrew Shaw",
+        "position": "Attaquant",
+        "goals": "18",
+        "assists": "27"
+    },
+    {
+        "player": "Jordan Eberle",
+        "position": "Attaquant",
+        "goals": "17",
+        "assists": "28"
+    },
+    {
+        "player": "Jesperi Kotkaniemi",
+        "position": "Attaquant",
+        "goals": "16",
+        "assists": "29"
+    },
+    {
+        "player": "Alexander Kerfoot",
+        "position": "Attaquant",
+        "goals": "16",
+        "assists": "29"
+    },
+    {
+        "player": "Shea Theodore",
+        "position": "Défenseur",
+        "goals": "15",
+        "assists": "30"
+    },
+    {
+        "player": "Ryan Ellis",
+        "position": "Défenseur",
+        "goals": "14",
+        "assists": "31"
+    },
+    {
+        "player": "Ryan Suter",
+        "position": "Défenseur",
+        "goals": "6",
+        "assists": "39"
+    },
+    {
+        "player": "Rasmus Ristolainen",
+        "position": "Défenseur",
+        "goals": "6",
+        "assists": "39"
+    },
+    {
+        "player": "Erik Haula",
+        "position": "Attaquant",
+        "goals": "22",
+        "assists": "22"
+    },
+    {
+        "player": "Doug Hamilton",
+        "position": "Défenseur",
+        "goals": "20",
+        "assists": "24"
+    },
+    {
+        "player": "Bobby Ryan",
+        "position": "Attaquant",
+        "goals": "20",
+        "assists": "24"
+    },
+    {
+        "player": "Christian Dvorak",
+        "position": "Attaquant",
+        "goals": "17",
+        "assists": "27"
+    },
+    {
+        "player": "Charlie Coyle",
+        "position": "Attaquant",
+        "goals": "15",
+        "assists": "29"
+    },
+    {
+        "player": "Aaron Ekblad",
+        "position": "Défenseur",
+        "goals": "14",
+        "assists": "30"
+    },
+    {
+        "player": "Justin Faulk",
+        "position": "Défenseur",
+        "goals": "14",
+        "assists": "30"
+    },
+    {
+        "player": "Tanner Pearson",
+        "position": "Attaquant",
+        "goals": "22",
+        "assists": "21"
+    },
+    {
+        "player": "Patric Hornqvist",
+        "position": "Attaquant",
+        "goals": "20",
+        "assists": "23"
+    },
+    {
+        "player": "Anthony Cirelli",
+        "position": "Attaquant",
+        "goals": "19",
+        "assists": "24"
+    },
+    {
+        "player": "Joonas Donskoi",
+        "position": "Attaquant",
+        "goals": "17",
+        "assists": "26"
+    },
+    {
+        "player": "Ondrej Kase",
+        "position": "Attaquant",
+        "goals": "17",
+        "assists": "26"
+    },
+    {
+        "player": "Bryan Little",
+        "position": "Attaquant",
+        "goals": "16",
+        "assists": "27"
+    },
+    {
+        "player": "Ivan Provorov",
+        "position": "Défenseur",
+        "goals": "10",
+        "assists": "33"
+    },
+    {
+        "player": "Jake Gardiner",
+        "position": "Défenseur",
+        "goals": "8",
+        "assists": "35"
+    },
+    {
+        "player": "James Reimer",
+        "position": "Gardien",
+        "vic": "19",
+        "dp": "5",
+        "bl": "2"
+    },
+    {
+        "player": "Anthony Beauvilli…",
+        "position": "Attaquant",
+        "goals": "22",
+        "assists": "20"
+    },
+    {
+        "player": "Wayne Simmonds",
+        "position": "Attaquant",
+        "goals": "22",
+        "assists": "20"
+    },
+    {
+        "player": "Vince Hinostroza",
+        "position": "Attaquant",
+        "goals": "18",
+        "assists": "24"
+    },
+    {
+        "player": "Shea Weber",
+        "position": "Défenseur",
+        "goals": "18",
+        "assists": "24"
+    },
+    {
+        "player": "Zach Hyman",
+        "position": "Attaquant",
+        "goals": "18",
+        "assists": "24"
+    },
+    {
+        "player": "Tyler Toffoli",
+        "position": "Attaquant",
+        "goals": "15",
+        "assists": "27"
+    },
+    {
+        "player": "Ryan Pulock",
+        "position": "Défenseur",
+        "goals": "14",
+        "assists": "28"
+    },
+    {
+        "player": "Joe Thornton",
+        "position": "Attaquant",
+        "goals": "12",
+        "assists": "30"
+    },
+    {
+        "player": "Oscar Klefbom",
+        "position": "Défenseur",
+        "goals": "10",
+        "assists": "32"
+    },
+    {
+        "player": "Joonas Korpisalo",
+        "position": "Gardien",
+        "vic": "18",
+        "dp": "6",
+        "bl": "1"
+    },
+    {
+        "player": "Darcy Kuemper",
+        "position": "Gardien",
+        "vic": "19",
+        "dp": "4",
+        "bl": "3"
+    },
+    {
+        "player": "Tyler Bozak",
+        "position": "Attaquant",
+        "goals": "15",
+        "assists": "26"
+    },
+    {
+        "player": "Mikko Koivu",
+        "position": "Attaquant",
+        "goals": "15",
+        "assists": "26"
+    },
+    {
+        "player": "Henrik Borgstrom",
+        "position": "Attaquant",
+        "goals": "15",
+        "assists": "26"
+    },
+    {
+        "player": "Jeff Carter",
+        "position": "Attaquant",
+        "goals": "15",
+        "assists": "26"
+    },
+    {
+        "player": "Colton Parayko",
+        "position": "Défenseur",
+        "goals": "12",
+        "assists": "29"
+    },
+    {
+        "player": "Mikhail Sergachev",
+        "position": "Défenseur",
+        "goals": "10",
+        "assists": "31"
+    },
+    {
+        "player": "Josh Morrissey",
+        "position": "Défenseur",
+        "goals": "8",
+        "assists": "33"
+    },
+    {
+        "player": "Boone Jenner",
+        "position": "Attaquant",
+        "goals": "22",
+        "assists": "18"
+    },
+    {
+        "player": "Craig Smith",
+        "position": "Attaquant",
+        "goals": "20",
+        "assists": "20"
+    },
+    {
+        "player": "J.T. Compher",
+        "position": "Attaquant",
+        "goals": "19",
+        "assists": "21"
+    },
+    {
+        "player": "Troy Terry",
+        "position": "Attaquant",
+        "goals": "18",
+        "assists": "22"
+    },
+    {
+        "player": "James Neal",
+        "position": "Attaquant",
+        "goals": "17",
+        "assists": "23"
+    },
+    {
+        "player": "Nikolai Prokhorkin",
+        "position": "Attaquant",
+        "goals": "17",
+        "assists": "23"
+    },
+    {
+        "player": "Jared Spurgeon",
+        "position": "Défenseur",
+        "goals": "14",
+        "assists": "26"
+    },
+    {
+        "player": "Drake Batherson",
+        "position": "Attaquant",
+        "goals": "13",
+        "assists": "27"
+    },
+    {
+        "player": "Brandon Montour",
+        "position": "Défenseur",
+        "goals": "10",
+        "assists": "30"
+    },
+    {
+        "player": "Ondrej Palat",
+        "position": "Attaquant",
+        "goals": "10",
+        "assists": "30"
+    },
+    {
+        "player": "Samuel Girard",
+        "position": "Défenseur",
+        "goals": "8",
+        "assists": "32"
+    },
+    {
+        "player": "Craig Anderson",
+        "position": "Gardien",
+        "vic": "17",
+        "dp": "6",
+        "bl": "2"
+    },
+    {
+        "player": "Ryan Donato",
+        "position": "Attaquant",
+        "goals": "18",
+        "assists": "21"
+    },
+    {
+        "player": "Corey Perry",
+        "position": "Attaquant",
+        "goals": "18",
+        "assists": "21"
+    },
+    {
+        "player": "Marcus Johansson",
+        "position": "Attaquant",
+        "goals": "17",
+        "assists": "22"
+    },
+    {
+        "player": "Alex Killorn",
+        "position": "Attaquant",
+        "goals": "15",
+        "assists": "24"
+    },
+    {
+        "player": "Danton Heinen",
+        "position": "Attaquant",
+        "goals": "15",
+        "assists": "24"
+    },
+    {
+        "player": "Vince Dunn",
+        "position": "Défenseur",
+        "goals": "13",
+        "assists": "26"
+    },
+    {
+        "player": "Robert Thomas",
+        "position": "Attaquant",
+        "goals": "10",
+        "assists": "29"
+    },
+    {
+        "player": "Ryan McDonagh",
+        "position": "Défenseur",
+        "goals": "9",
+        "assists": "30"
+    },
+    {
+        "player": "Mattias Ekholm",
+        "position": "Défenseur",
+        "goals": "8",
+        "assists": "31"
+    },
+    {
+        "player": "Justin Schultz",
+        "position": "Défenseur",
+        "goals": "8",
+        "assists": "31"
+    },
+    {
+        "player": "Duncan Keith",
+        "position": "Défenseur",
+        "goals": "7",
+        "assists": "32"
+    },
+    {
+        "player": "Will Butcher",
+        "position": "Défenseur",
+        "goals": "6",
+        "assists": "33"
+    },
+    {
+        "player": "Juuse Saros",
+        "position": "Gardien",
+        "vic": "18",
+        "dp": "3",
+        "bl": "3"
+    },
+    {
+        "player": "Jaroslav Halak",
+        "position": "Gardien",
+        "vic": "18",
+        "dp": "3",
+        "bl": "4"
+    },
+    {
+        "player": "Nick Foligno",
+        "position": "Attaquant",
+        "goals": "20",
+        "assists": "18"
+    },
+    {
+        "player": "Brett Connolly",
+        "position": "Attaquant",
+        "goals": "19",
+        "assists": "19"
+    },
+    {
+        "player": "Michael Frolik",
+        "position": "Attaquant",
+        "goals": "17",
+        "assists": "21"
+    },
+    {
+        "player": "Mark Jankowski",
+        "position": "Attaquant",
+        "goals": "16",
+        "assists": "22"
+    },
+    {
+        "player": "Roope Hintz",
+        "position": "Attaquant",
+        "goals": "14",
+        "assists": "24"
+    },
+    {
+        "player": "Mikkel Boedker",
+        "position": "Attaquant",
+        "goals": "11",
+        "assists": "27"
+    },
+    {
+        "player": "Evan Rodrigues",
+        "position": "Attaquant",
+        "goals": "11",
+        "assists": "27"
+    },
+    {
+        "player": "Nikolay Goldobin",
+        "position": "Attaquant",
+        "goals": "11",
+        "assists": "27"
+    },
+    {
+        "player": "Tyler Myers",
+        "position": "Défenseur",
+        "goals": "10",
+        "assists": "28"
+    },
+    {
+        "player": "T.J. Brodie",
+        "position": "Défenseur",
+        "goals": "10",
+        "assists": "28"
+    },
+    {
+        "player": "Cale Makar",
+        "position": "Défenseur",
+        "goals": "10",
+        "assists": "28"
+    },
+    {
+        "player": "Jaccob Slavin",
+        "position": "Défenseur",
+        "goals": "10",
+        "assists": "28"
+    },
+    {
+        "player": "Alexander Edler",
+        "position": "Défenseur",
+        "goals": "10",
+        "assists": "28"
+    },
+    {
+        "player": "Thomas Greiss",
+        "position": "Gardien",
+        "vic": "16",
+        "dp": "6",
+        "bl": "2"
+    },
+    {
+        "player": "Corey Crawford",
+        "position": "Gardien",
+        "vic": "17",
+        "dp": "4",
+        "bl": "3"
+    },
+    {
+        "player": "Oskar Lindblom",
+        "position": "Attaquant",
+        "goals": "18",
+        "assists": "19"
+    },
+    {
+        "player": "Andre Burakovsky",
+        "position": "Attaquant",
+        "goals": "17",
+        "assists": "20"
+    },
+    {
+        "player": "Jordan Staal",
+        "position": "Attaquant",
+        "goals": "17",
+        "assists": "20"
+    },
+    {
+        "player": "Jordan Greenway",
+        "position": "Attaquant",
+        "goals": "16",
+        "assists": "21"
+    },
+    {
+        "player": "Adrian Kempe",
+        "position": "Attaquant",
+        "goals": "16",
+        "assists": "21"
+    },
+    {
+        "player": "Jack Roslovic",
+        "position": "Attaquant",
+        "goals": "14",
+        "assists": "23"
+    },
+    {
+        "player": "Derick Brassard",
+        "position": "Attaquant",
+        "goals": "13",
+        "assists": "24"
+    },
+    {
+        "player": "Jeff Petry",
+        "position": "Défenseur",
+        "goals": "11",
+        "assists": "26"
+    },
+    {
+        "player": "Travis Sanheim",
+        "position": "Défenseur",
+        "goals": "11",
+        "assists": "26"
+    },
+    {
+        "player": "Esa Lindell",
+        "position": "Défenseur",
+        "goals": "10",
+        "assists": "27"
+    },
+    {
+        "player": "Jesse Puljujarvi",
+        "position": "Attaquant",
+        "goals": "10",
+        "assists": "27"
+    },
+    {
+        "player": "Anthony DeAngelo",
+        "position": "Défenseur",
+        "goals": "8",
+        "assists": "29"
+    },
+    {
+        "player": "Noah Hanifin",
+        "position": "Défenseur",
+        "goals": "5",
+        "assists": "32"
+    },
+    {
+        "player": "Brian Elliott",
+        "position": "Gardien",
+        "vic": "17",
+        "dp": "3",
+        "bl": "1"
+    },
+    {
+        "player": "Frank Vatrano",
+        "position": "Attaquant",
+        "goals": "22",
+        "assists": "14"
+    },
+    {
+        "player": "Paul Byron",
+        "position": "Attaquant",
+        "goals": "19",
+        "assists": "17"
+    },
+    {
+        "player": "Sam Steel",
+        "position": "Attaquant",
+        "goals": "19",
+        "assists": "17"
+    },
+    {
+        "player": "Connor Brown",
+        "position": "Attaquant",
+        "goals": "16",
+        "assists": "20"
+    },
+    {
+        "player": "Artturi Lehkonen",
+        "position": "Attaquant",
+        "goals": "16",
+        "assists": "20"
+    },
+    {
+        "player": "Jake Virtanen",
+        "position": "Attaquant",
+        "goals": "15",
+        "assists": "21"
+    },
+    {
+        "player": "Tyson Jost",
+        "position": "Attaquant",
+        "goals": "14",
+        "assists": "22"
+    },
+    {
+        "player": "Nolan Patrick",
+        "position": "Attaquant",
+        "goals": "13",
+        "assists": "23"
+    },
+    {
+        "player": "Travis Zajac",
+        "position": "Attaquant",
+        "goals": "12",
+        "assists": "24"
+    },
+    {
+        "player": "Nick Bjugstad",
+        "position": "Attaquant",
+        "goals": "12",
+        "assists": "24"
+    },
+    {
+        "player": "Filip Hronek",
+        "position": "Défenseur",
+        "goals": "10",
+        "assists": "26"
+    },
+    {
+        "player": "Nate Schmidt",
+        "position": "Défenseur",
+        "goals": "10",
+        "assists": "26"
+    },
+    {
+        "player": "Alexandar Georgiev",
+        "position": "Gardien",
+        "vic": "15",
+        "dp": "6",
+        "bl": "1"
+    },
+    {
+        "player": "Linus Ullmark",
+        "position": "Gardien",
+        "vic": "16",
+        "dp": "4",
+        "bl": "1"
+    },
+    {
+        "player": "Anton Khudobin",
+        "position": "Gardien",
+        "vic": "16",
+        "dp": "4",
+        "bl": "2"
+    },
+    {
+        "player": "Carl Soderberg",
+        "position": "Attaquant",
+        "goals": "17",
+        "assists": "18"
+    },
+    {
+        "player": "Brendan Perlini",
+        "position": "Attaquant",
+        "goals": "17",
+        "assists": "18"
+    },
+    {
+        "player": "Joakim Nygard",
+        "position": "Attaquant",
+        "goals": "15",
+        "assists": "20"
+    },
+    {
+        "player": "Brandon Pirri",
+        "position": "Attaquant",
+        "goals": "15",
+        "assists": "20"
+    },
+    {
+        "player": "Lars Eller",
+        "position": "Attaquant",
+        "goals": "14",
+        "assists": "21"
+    },
+    {
+        "player": "Alexander Steen",
+        "position": "Attaquant",
+        "goals": "12",
+        "assists": "23"
+    },
+    {
+        "player": "Valeri Nichushkin",
+        "position": "Attaquant",
+        "goals": "10",
+        "assists": "25"
+    },
+    {
+        "player": "Jake Muzzin",
+        "position": "Défenseur",
+        "goals": "9",
+        "assists": "26"
+    },
+    {
+        "player": "Hampus Lindholm",
+        "position": "Défenseur",
+        "goals": "8",
+        "assists": "27"
+    },
+    {
+        "player": "Elvis Merzlikins",
+        "position": "Gardien",
+        "vic": "15",
+        "dp": "5",
+        "bl": "2"
+    },
+    {
+        "player": "Casey DeSmith",
+        "position": "Gardien",
+        "vic": "16",
+        "dp": "3",
+        "bl": "3"
+    },
+    {
+        "player": "Damon Severson",
+        "position": "Défenseur",
+        "goals": "9",
+        "assists": "25"
+    },
+    {
+        "player": "Evgeny Svechnikov",
+        "position": "Attaquant",
+        "goals": "9",
+        "assists": "25"
+    },
+    {
+        "player": "Marcus Pettersson",
+        "position": "Défenseur",
+        "goals": "6",
+        "assists": "28"
+    },
+    {
+        "player": "Dmitry Orlov",
+        "position": "Défenseur",
+        "goals": "4",
+        "assists": "30"
+    },
+    {
+        "player": "Ryan Poehling",
+        "position": "Attaquant",
+        "goals": "14",
+        "assists": "19"
+    },
+    {
+        "player": "Casey Mittelstadt",
+        "position": "Attaquant",
+        "goals": "14",
+        "assists": "19"
+    },
+    {
+        "player": "Martin Necas",
+        "position": "Attaquant",
+        "goals": "11",
+        "assists": "22"
+    },
+    {
+        "player": "Jakob Chychrun",
+        "position": "Défenseur",
+        "goals": "10",
+        "assists": "23"
+    },
+    {
+        "player": "Maxime Comtois",
+        "position": "Attaquant",
+        "goals": "10",
+        "assists": "23"
+    },
+    {
+        "player": "Kevin Shattenkirk",
+        "position": "Défenseur",
+        "goals": "8",
+        "assists": "25"
+    },
+    {
+        "player": "Mike Smith",
+        "position": "Gardien",
+        "vic": "15",
+        "dp": "3",
+        "bl": "2"
+    },
+    {
+        "player": "Pheonix Copley",
+        "position": "Gardien",
+        "vic": "15",
+        "dp": "3",
+        "bl": "3"
+    },
+    {
+        "player": "Alexandre Texier",
+        "position": "Attaquant",
+        "goals": "14",
+        "assists": "18"
+    },
+    {
+        "player": "Mike Matheson",
+        "position": "Défenseur",
+        "goals": "9",
+        "assists": "23"
+    },
+    {
+        "player": "Sami Vatanen",
+        "position": "Défenseur",
+        "goals": "8",
+        "assists": "24"
+    },
+    {
+        "player": "Colin Miller",
+        "position": "Défenseur",
+        "goals": "5",
+        "assists": "27"
+    },
+    {
+        "player": "Quinn Hughes",
+        "position": "Défenseur",
+        "goals": "5",
+        "assists": "27"
+    },
+    {
+        "player": "Brett Pesce",
+        "position": "Défenseur",
+        "goals": "6",
+        "assists": "25"
+    },
+    {
+        "player": "Jake Allen",
+        "position": "Gardien",
+        "vic": "14",
+        "dp": "3",
+        "bl": "3"
+    },
+    {
+        "player": "Tim Heed",
+        "position": "Défenseur",
+        "goals": "9",
+        "assists": "21"
+    },
+    {
+        "player": "Cam Fowler",
+        "position": "Défenseur",
+        "goals": "8",
+        "assists": "22"
+    },
+    {
+        "player": "Nick Leddy",
+        "position": "Défenseur",
+        "goals": "7",
+        "assists": "23"
+    },
+    {
+        "player": "Mike Green",
+        "position": "Défenseur",
+        "goals": "7",
+        "assists": "23"
+    },
+    {
+        "player": "Josh Manson",
+        "position": "Défenseur",
+        "goals": "5",
+        "assists": "25"
+    },
+    {
+        "player": "Matt Grzelcyk",
+        "position": "Défenseur",
+        "goals": "5",
+        "assists": "25"
+    },
+    {
+        "player": "Thatcher Demko",
+        "position": "Gardien",
+        "vic": "13",
+        "dp": "4",
+        "bl": "1"
+    },
+    {
+        "player": "Dennis Cholowski",
+        "position": "Défenseur",
+        "goals": "8",
+        "assists": "21"
+    },
+    {
+        "player": "Alex Goligoski",
+        "position": "Défenseur",
+        "goals": "7",
+        "assists": "22"
+    },
+    {
+        "player": "Brent Seabrook",
+        "position": "Défenseur",
+        "goals": "5",
+        "assists": "24"
+    },
+    {
+        "player": "Jonathan Bernier",
+        "position": "Gardien",
+        "vic": "12",
+        "dp": "5",
+        "bl": "1"
+    },
+    {
+        "player": "Adam Fox",
+        "position": "Défenseur",
+        "goals": "8",
+        "assists": "20"
+    },
+    {
+        "player": "Neal Pionk",
+        "position": "Défenseur",
+        "goals": "6",
+        "assists": "22"
+    },
+    {
+        "player": "Nikita Zaitsev",
+        "position": "Défenseur",
+        "goals": "6",
+        "assists": "22"
+    },
+    {
+        "player": "Devon Toews",
+        "position": "Défenseur",
+        "goals": "6",
+        "assists": "22"
+    },
+    {
+        "player": "Adam Pelech",
+        "position": "Défenseur",
+        "goals": "5",
+        "assists": "23"
+    },
+    {
+        "player": "Mackenzie Blackwo…",
+        "position": "Gardien",
+        "vic": "12",
+        "dp": "4",
+        "bl": "1"
+    },
+    {
+        "player": "Pavel Francouz",
+        "position": "Gardien",
+        "vic": "13",
+        "dp": "2",
+        "bl": "1"
+    },
+    {
+        "player": "Jimmy Schuldt",
+        "position": "Défenseur",
+        "goals": "6",
+        "assists": "21"
+    },
+    {
+        "player": "Rasmus Andersson",
+        "position": "Défenseur",
+        "goals": "4",
+        "assists": "23"
+    },
+    {
+        "player": "Brian Dumoulin",
+        "position": "Défenseur",
+        "goals": "3",
+        "assists": "24"
+    },
+    {
+        "player": "Ryan Murray",
+        "position": "Défenseur",
+        "goals": "2",
+        "assists": "25"
+    },
+    {
+        "player": "David Savard",
+        "position": "Défenseur",
+        "goals": "9",
+        "assists": "17"
+    },
+    {
+        "player": "Brady Skjei",
+        "position": "Défenseur",
+        "goals": "7",
+        "assists": "19"
+    },
+    {
+        "player": "Dylan Demelo",
+        "position": "Défenseur",
+        "goals": "5",
+        "assists": "21"
+    },
+    {
+        "player": "Jack Campbell",
+        "position": "Gardien",
+        "vic": "11",
+        "dp": "4",
+        "bl": "1"
+    },
+    {
+        "player": "Aaron Dell",
+        "position": "Gardien",
+        "vic": "12",
+        "dp": "2",
+        "bl": "2"
+    },
+    {
+        "player": "Alec Martinez",
+        "position": "Défenseur",
+        "goals": "6",
+        "assists": "19"
+    },
+    {
+        "player": "Erik Brannstrom",
+        "position": "Défenseur",
+        "goals": "6",
+        "assists": "19"
+    },
+    {
+        "player": "Anton Stralman",
+        "position": "Défenseur",
+        "goals": "5",
+        "assists": "20"
+    },
+    {
+        "player": "Keith Kinkaid",
+        "position": "Gardien",
+        "vic": "11",
+        "dp": "3",
+        "bl": "2"
+    },
+    {
+        "player": "Victor Mete",
+        "position": "Défenseur",
+        "goals": "5",
+        "assists": "19"
+    },
+    {
+        "player": "Adam Larsson",
+        "position": "Défenseur",
+        "goals": "5",
+        "assists": "19"
+    },
+    {
+        "player": "Jonas Brodin",
+        "position": "Défenseur",
+        "goals": "4",
+        "assists": "20"
+    },
+    {
+        "player": "Cody Ceci",
+        "position": "Défenseur",
+        "goals": "4",
+        "assists": "20"
+    },
+    {
+        "player": "Dante Fabbro",
+        "position": "Défenseur",
+        "goals": "4",
+        "assists": "20"
+    },
+    {
+        "player": "Anders Nilsson",
+        "position": "Gardien",
+        "vic": "10",
+        "dp": "4",
+        "bl": "1"
+    },
+    {
+        "player": "Marc-Edouard Vlas…",
+        "position": "Défenseur",
+        "goals": "5",
+        "assists": "18"
+    },
+    {
+        "player": "Matt Niskanen",
+        "position": "Défenseur",
+        "goals": "5",
+        "assists": "18"
+    },
+    {
+        "player": "Olli Maatta",
+        "position": "Défenseur",
+        "goals": "3",
+        "assists": "20"
+    },
+    {
+        "player": "Ryan Miller",
+        "position": "Gardien",
+        "vic": "10",
+        "dp": "3",
+        "bl": "·"
+    },
+    {
+        "player": "Samuel Montembeau…",
+        "position": "Gardien",
+        "vic": "10",
+        "dp": "3",
+        "bl": "1"
+    },
+    {
+        "player": "Markus Nutivaara",
+        "position": "Défenseur",
+        "goals": "7",
+        "assists": "15"
+    },
+    {
+        "player": "Danny Dekeyser",
+        "position": "Défenseur",
+        "goals": "7",
+        "assists": "15"
+    },
+    {
+        "player": "Erik Johnson",
+        "position": "Défenseur",
+        "goals": "5",
+        "assists": "17"
+    },
+    {
+        "player": "Troy Stecher",
+        "position": "Défenseur",
+        "goals": "3",
+        "assists": "19"
+    },
+    {
+        "player": "Ben Chiarot",
+        "position": "Défenseur",
+        "goals": "6",
+        "assists": "15"
+    },
+    {
+        "player": "Justin Braun",
+        "position": "Défenseur",
+        "goals": "5",
+        "assists": "16"
+    },
+    {
+        "player": "Brenden Dillon",
+        "position": "Défenseur",
+        "goals": "4",
+        "assists": "17"
+    },
+    {
+        "player": "Michal Kempny",
+        "position": "Défenseur",
+        "goals": "4",
+        "assists": "17"
+    },
+    {
+        "player": "Calle Rosen",
+        "position": "Défenseur",
+        "goals": "4",
+        "assists": "16"
+    },
+    {
+        "player": "Nick Jensen",
+        "position": "Défenseur",
+        "goals": "3",
+        "assists": "17"
+    },
+    {
+        "player": "Eric Comrie",
+        "position": "Gardien",
+        "vic": "9",
+        "dp": "1",
+        "bl": "2"
+    },
+    {
+        "player": "Michael Hutchinson",
+        "position": "Gardien",
+        "vic": "8",
+        "dp": "2",
+        "bl": "1"
+    },
+    {
+        "player": "Alex Stalock",
+        "position": "Gardien",
+        "vic": "7",
+        "dp": "3",
+        "bl": "1"
+    },
+    {
+        "player": "Curtis McElhinney",
+        "position": "Gardien",
+        "vic": "8",
+        "dp": "1",
+        "bl": "2"
+    },
+    {
+        "player": "Malcolm Subban",
+        "position": "Gardien",
+        "vic": "7",
+        "dp": "2",
+        "bl": "1"
+    },
+    {
+        "player": "Garret Sparks",
+        "position": "Gardien",
+        "vic": "7",
+        "dp": "1",
+        "bl": "1"
+    },
+    {
+        "player": "Laurent Brossoit",
+        "position": "Gardien",
+        "vic": "7",
+        "dp": "1",
+        "bl": "1"
+    },
+    {
+        "player": "Louis Domingue",
+        "position": "Gardien",
+        "vic": "6",
+        "dp": "1",
+        "bl": "1"
+    }
 ]
