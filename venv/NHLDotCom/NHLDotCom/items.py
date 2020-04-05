@@ -11,8 +11,10 @@ from scrapy.item import Item, Field
 class NhldotcomItem(Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    name = Field()
+    player = Field()
     position = Field()
     goals = Field()
-    assistsS = Field()
-    points = Field()
+    assists = Field()
+    vic = Field()
+    dp = Field()
+    bl = Field()
