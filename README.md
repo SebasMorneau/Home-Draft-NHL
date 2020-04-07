@@ -10,19 +10,6 @@ Looking for a website to extract the nhl player
 https://www.lepool.com/nhl/predictions
 ```
 
-```python
-def parse(self, response):
-        players_name = Selector(response).xpath(
-            '//div[@class="div-name-in-table"]')
+## import requests
 
-        for player_name in players_name:
-            item = NhldotcomItem()
-            item['name'] = player_name.xpath(
-                './/div[2]/div/a/text()'
-            ).extract()[0]
-            item['position'] = player_name.xpath(
-                './/div/div/@data-content'
-            ).extract()[0]
-
-            yield item
-```
+use > Path\easy_install.exe requests, where Path is your Python\*\Scripts folder, if it was installed. (For example: C:\Python32\Scripts)
